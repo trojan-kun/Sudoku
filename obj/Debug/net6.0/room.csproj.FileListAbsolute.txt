@@ -1,0 +1,15 @@
+D:\РЭУ\трспк\room\obj\Debug\net6.0\room.csproj.AssemblyReference.cache
+D:\РЭУ\трспк\room\obj\Debug\net6.0\room.GeneratedMSBuildEditorConfig.editorconfig
+D:\РЭУ\трспк\room\obj\Debug\net6.0\room.AssemblyInfoInputs.cache
+D:\РЭУ\трспк\room\obj\Debug\net6.0\room.AssemblyInfo.cs
+D:\РЭУ\трспк\room\obj\Debug\net6.0\room.csproj.CoreCompileInputs.cache
+D:\РЭУ\трспк\room\bin\Debug\net6.0\room.exe
+D:\РЭУ\трспк\room\bin\Debug\net6.0\room.deps.json
+D:\РЭУ\трспк\room\bin\Debug\net6.0\room.runtimeconfig.json
+D:\РЭУ\трспк\room\bin\Debug\net6.0\room.dll
+D:\РЭУ\трспк\room\bin\Debug\net6.0\room.pdb
+D:\РЭУ\трспк\room\obj\Debug\net6.0\room.dll
+D:\РЭУ\трспк\room\obj\Debug\net6.0\refint\room.dll
+D:\РЭУ\трспк\room\obj\Debug\net6.0\room.pdb
+D:\РЭУ\трспк\room\obj\Debug\net6.0\room.genruntimeconfig.cache
+D:\РЭУ\трспк\room\obj\Debug\net6.0\ref\room.dll
